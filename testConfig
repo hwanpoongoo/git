@@ -1,4 +1,5 @@
-config:rel
+config:feature123
 
 add rel
 add rel-feature
+add rel-feature123
